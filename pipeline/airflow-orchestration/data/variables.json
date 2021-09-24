@@ -1,0 +1,6 @@
+{
+	"project_id": "<REPLACE WITH YOUR PROJECT ID>", 
+	"gcs_bucket": "<REPLACE WITH YOUR BUCKET NAME>",
+	"dataproc_cluster_name":"spark-lineage",
+	"dataproc_region": "us-east1"
+}
